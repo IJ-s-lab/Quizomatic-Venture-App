@@ -90,7 +90,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 - The Tailwind CSS community for a great utility-first CSS framework.
 - The contributors who make this project possible.
 
----
 
-Feel free to reach out if you have any questions or suggestions!
-```
